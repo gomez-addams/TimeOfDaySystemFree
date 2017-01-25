@@ -4,8 +4,8 @@ With this package you can create Basic Day/Night cycle, also it includes a syste
 # Features:
 * Easy to use. 
 * Day and night cycle. 
-* Curve and gradient system (Based in timeline). 
-* Custom procedural skybox(Custom-UnityBuildingShaders).
+* Curve and gradient system. 
+* Custom unity procedural skybox.
 * Night color. 
 * Moon. 
 * Stars.
