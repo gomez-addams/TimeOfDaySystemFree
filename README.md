@@ -15,7 +15,6 @@ Moon Texture: http://acxjcr.wixsite.com/acr0/u5-moon-textures
 
 Asset Store: https://www.assetstore.unity3d.com/en/#!/content/71422
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=726LRHX4QNEQC)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=726LRHX4QNEQC)
 
 
