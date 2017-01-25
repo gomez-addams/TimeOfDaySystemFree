@@ -15,6 +15,6 @@ Moon Texture: http://acxjcr.wixsite.com/acr0/u5-moon-textures
 
 Asset Store: https://www.assetstore.unity3d.com/en/#!/content/71422
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)]tpacj0@gmail.com
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](tpacj0@gmail.com)
 
 
