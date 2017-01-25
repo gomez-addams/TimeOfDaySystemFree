@@ -1,4 +1,4 @@
-# TimeOfDaySystemFree v1.2.9
+# Time Of Day System Free v1.2.9
 With this package you can create Basic Day/Night cycle, also it includes a system of curves and gradients to control the parameters of the lighting, sky, moon, stars, fog, etc.
 
 # Features:
