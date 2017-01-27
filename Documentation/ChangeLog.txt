@@ -1,0 +1,137 @@
+
+
+=======================================- ChangeLog -=======================================
+___________________________________________________________________________________________
+
+
+
+=======================================-  Current  -======================================= 
+
+-------------------------------------------------------------------------------------------
+v 1.2.9
+===========================================================================================
+
+
+GitHub: https://github.com/ACFILES/TimeOfDaySystemFree
+
+Notice 2: The "Unity-Custom-Procedural-Skybox" shader is property of the Unity Tecnologies.
+-------------------------------------------------------------------------------------------
+
+Notice 3: Not mobile optimized, I only tested in Galaxy Tablet A (38-40FPS).
+
+realistic full moon texture : http://acxjcr.wixsite.com/acr0/u5-moon-textures
+
+* Changed "AC_UtilityEditor" class name to "AC_CustomEditor".(now is abstract class).
+
+
+
+=======================================-    Old    -=======================================
+
+
+------------------------------------------------------------------------------
+v 1.2.8
+===========================================================================================
+* Added "NightColorType".
+* Added display time script.
+* Removed "TimeString" propery now used display time script.
+* Added new moon texture.
+* Added new stars texture.
+------------------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------------------
+v 1.2.7
+===========================================================================================
+
+Notice : From this there will be no more changes in the names of the variables, 
+properties or the asset.(Changes of the names were nesessary), 
+Also, i decided to rewrite the C# code(I wanted to have a more readable code).
+
+* Renamed Asset "ACR Time Of Day Free" to "Time Of Day System Free" Sorry for the change but is necessary. 
+--------------------------------------------------------------------------------------------------
+*Rewritten C# code.
+* Added Day and night state.
+* Added new default values. 
+* Added Sun Type(default unity miePhase and sunSpot).
+* Added "AC_UtilityEditor"static class.
+-------------------------------------------------------------------------------------------
+* Remplaced namespace "ACR.TimeOfDayFree"   to "AC.TimeOfDaySystemFree".
+* Remplaced "currentTime"   to "timeline".
+* Remplaced "MoonLongitude" to "MoonYaw".
+* Remplaced "MoonLatitude"  to "MoonPitch".
+* Remplaced Time Of Day Manager prefab settings.
+-------------------------------------------------------------------------------------------
+* Fixed stars twinkle curve range[0-1].
+* Fixed stars twinkle speed curve range[0-10].
+___________________________________________________________________________________________
+
+
+
+
+v 1.2.3 
+===========================================================================================
+
+* Renamed asset ("Basic Time Of Day" to "ACR Time Of Day".
+
+------------------------------------------------------------------------------------------
+
+* Added namespace "ACR.TimeOfDayFree".
+
+* Added TimeString property.
+
+* Added hour and minute label in custom editor.
+
+* Added selectable curves and gradients.
+
+* Added horizon fade for moon and stars.
+
+* Added fog type enum.
+
+* Added "useStarsTinkle" bool.
+-------------------------------------------------------------------------------------------
+
+
+* Removed "SunCycle" property.
+
+* Removed "Night Horizon Exponent" property(not it's necesary).
+
+* Removed "m_MoonLight" reference(now used only one directional light).
+//-----------------------------------------------------------------------------------------
+
+
+* Rename "CGCycle" property to "CGTime".
+
+* Fixed "width" of the properties in the custom editor.
+
+* Added other "Moon Halo" function.
+
+* "Night Color" now is affected by atmosphere thickness.
+
+* Disabled "Sun quality" (Temporarily). enabled only HQ.
+___________________________________________________________________________________________
+
+
+
+
+v 1.1.2
+-------------------------------------------------------------------------------------------
+* Fixed WebGL pink material.
+* Fixed moon halo bug(black square).
+___________________________________________________________________________________________
+
+
+
+v 1.1.0
+-------------------------------------------------------------------------------------------
+* Added new moon texture(no realistic).
+* Fixed moon texture position.
+* Fixed moon alpha intensity.
+* Renamed "timeInSeconds" variable to "dayInSeconds".
+* Added stars twinkle feature.
+___________________________________________________________________________________________
+
+
+
+
+
+
